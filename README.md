@@ -1,0 +1,2 @@
+# gelecek-dev
+ödev1
